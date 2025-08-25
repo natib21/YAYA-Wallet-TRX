@@ -1,6 +1,7 @@
 # Yaya Wallet TRX Dashboard
 
-![Main Dashboard View with Transaction Table](assets/page1.png)
+![Main Dashboard View with Transaction Table](assets/page1.png<img width="1299" height="583" alt="page1" src="https://github.com/user-attachments/assets/a1bfd85d-a36b-4e12-81a5-416a65e95b18" />
+)
 ![Main Dashboard View with Transaction Table](assets/page2.png)
 ![Main Dashboard View with Transaction Table](assets/page3.png)
 ![Main Dashboard View with Transaction Table](assets/page4.png)
