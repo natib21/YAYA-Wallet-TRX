@@ -2,15 +2,19 @@
 
 ![Main Dashboard View with Transaction Table](assets/page1.png<img width="1299" height="583" alt="page1" src="https://github.com/user-attachments/assets/a1bfd85d-a36b-4e12-81a5-416a65e95b18" />
 )
-![Main Dashboard View with Transaction Table](assets/page2.png)
-![Main Dashboard View with Transaction Table](assets/page3.png)
-![Main Dashboard View with Transaction Table](assets/page4.png)
+![Main Dashboard View with Transaction Table](assets/page2.<img width="1316" height="570" alt="page2" src="https://github.com/user-attachments/assets/a5d69a85-1da5-47fb-81fa-09f47bf3f9ef" />
+png)
+![Main Dashboard View with Transaction Table](assets/pag<img width="1307" height="589" alt="page3" src="https://github.com/user-attachments/assets/14dfbcaf-6895-4af4-a779-f37361c24845" />
+e3.png)
+![Main Dashboard View with Transaction Table](assets/page4.<img width="1131" height="576" alt="page4" src="https://github.com/user-attachments/assets/3856905b-9c92-4c1d-8628-573f2b796827" />
+png)
 
 ## Project Overview
 
 The core functionality of this application is to display a user's transactions in a paginated, searchable, and well-structured table. A key challenge was the unresponsiveness of the provided sandbox API endpoints. To address this, the backend was developed with a conditional logic that seamlessly switches between the live API and a robust local mock dataset. This approach ensures the application remains functional for demonstration and testing purposes, and also showcases a resilient and adaptable architecture.
 
-![Main Dashboard View with Transaction Table](assets/Capture.png)
+![Main Dashboard View with Transaction Table](assets/Captu<img width="932" height="547" alt="Capture" src="https://github.com/user-attachments/assets/888b09b1-ca59-4d75-9d80-6e4b0bf62658" />
+re.png)
 ### Key Features:
 
 * **Paginated Transaction List**: Users can view transactions in a paginated table. The page number is controlled via a query parameter (`p`).
