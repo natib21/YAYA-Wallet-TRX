@@ -1,15 +1,15 @@
 # Yaya Wallet TRX Dashboard
 
-`![Main Dashboard View with Transaction Table](assets/page1)`
-`![Main Dashboard View with Transaction Table](assets/page2)`
-`![Main Dashboard View with Transaction Table](assets/page3)`
-`![Main Dashboard View with Transaction Table](assets/page4)`
+![Main Dashboard View with Transaction Table](assets/page1)
+![Main Dashboard View with Transaction Table](assets/page2)
+![Main Dashboard View with Transaction Table](assets/page3)
+![Main Dashboard View with Transaction Table](assets/page4)
 
 ## Project Overview
 
 The core functionality of this application is to display a user's transactions in a paginated, searchable, and well-structured table. A key challenge was the unresponsiveness of the provided sandbox API endpoints. To address this, the backend was developed with a conditional logic that seamlessly switches between the live API and a robust local mock dataset. This approach ensures the application remains functional for demonstration and testing purposes, and also showcases a resilient and adaptable architecture.
 
-`![Main Dashboard View with Transaction Table](assets/Capture)`
+![Main Dashboard View with Transaction Table](assets/Capture)
 ### Key Features:
 
 * **Paginated Transaction List**: Users can view transactions in a paginated table. The page number is controlled via a query parameter (`p`).
