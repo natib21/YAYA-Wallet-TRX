@@ -1,0 +1,6 @@
+[submodule "yaya-frontend"]
+	path = yaya-frontend
+	url = https://github.com/natib21/YAYA-Back-end.git
+[submodule "yaya-backend"]
+	path = yaya-backend
+	url = https://github.com/natib21/YAYA-Front-end.git
